@@ -48,19 +48,22 @@ Funcionalidades:
 
 TO DO:
 
+* Criar Aba Status com mais informações:
+  - Lucro no dia em dinheiro e em %
+  - Lucro nesse Ativo operado no dia
+  - Quanto o ativo paga por pontos
+  - Lucro no mês em dinheiro e em %
+  - Drawdown da conta
+  - Valor de custo pra entrar na operação quanto ao nivel de margem
+* Painel em % de valorização ou desvalorização ao longo do tempo do Ativo
+* Painel de Exposição a Moedas, em lotes
+* Icone de Notificacao de Lucro Ligada ao lado do Display
+* Traçar as Linhas Fibo no Grafico Mensal
 * Sinal sonoro no cruzamento das médias móveis 6 e 21.
+* Multiplos indicadores em conjunto em um painel
+* (Nao sei se é possível)Alertar caso um ativo tenha uma alteração brusca de pontos pontos de uma só vez para pegar um pouco e surfar no movimento
 * Melhoria das Labels nas linhas de topo, mediana e fundo.
 * Resolver problema de monitores com DPI maior nas fontes encavaladas.
-* Criar Aba pra mais informações no Display
-* Lucro do Ativo operado no dia
-* DrawDown da conta
-* Icone de Notificacao de Lucro Ligada ao lado do Display
-* Quanto o ativo paga por pontos
-* Valor de custo pra entrar na operação quanto ao nivel de margem
-* Multiplos indicadores em conjunto em um painel
-* Painel em % de valorização ou desvalorização ao longo do tempo do Ativo
-* (Nao sei se é possível)Alertar caso um ativo tenha uma alteração brusca de pontos pontos de uma só vez para pegar um pouco e surfar no movimento
-
 
 SOBRE O PAINEL:
 
